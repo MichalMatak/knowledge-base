@@ -2,6 +2,9 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 const root = process.cwd();
+const pageSource = readFileSync(path.join(root, 'src/routes/kb/incidents/4471/causes/+page.svx'), 'utf8');
+const signature = pageSource.match(/^signature:\s*(\S+)$/m)?.[1];
+if (!signature) throw new Error('Missing page signature in frontmatter');
 const dataDir = path.join(root, 'src/lib/data');
 const reports = JSON.parse(readFileSync(path.join(dataDir, 'reports-4471.json'), 'utf8'));
 const notes = JSON.parse(readFileSync(path.join(dataDir, 'desk-notes.json'), 'utf8'));
@@ -120,7 +123,7 @@ ${notesHtml}
 <p><strong>GitHub follow-up:</strong> <a href="https://github.com/MichalMatak/knowledge-base/issues/2">Issue #2</a>.</p>
 <h2>One-day moves</h2>
 <p>The desk notes flag <code>R-41202</code>, <code>R-41209</code>, <code>R-41236</code>, <code>R-41344</code>, and <code>R-41620</code> as one-day moves. The tenant/form rule still places them in the shared-parser group; the notes do not establish a third cause.</p>
-<p class="stamp">desk ref <b>${deskRef('MichalMatak')}</b></p>
+<p class="stamp">desk ref <b>${deskRef(signature)}</b></p>
 </main><footer>Pages are written by people. Tables and charts are built from data at render time.</footer>
 </div></body></html>
 `;
