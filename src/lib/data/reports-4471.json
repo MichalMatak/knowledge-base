@@ -1,0 +1,4122 @@
+[
+  {
+    "id": "R-41200",
+    "receivedAt": "2026-04-01",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41201",
+    "receivedAt": "2026-04-01",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41202",
+    "receivedAt": "2026-04-02",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41203",
+    "receivedAt": "2026-04-03",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41204",
+    "receivedAt": "2026-04-04",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41205",
+    "receivedAt": "2026-04-05",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41206",
+    "receivedAt": "2026-04-05",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41208",
+    "receivedAt": "2026-04-06",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41209",
+    "receivedAt": "2026-04-06",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41210",
+    "receivedAt": "2026-04-07",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41211",
+    "receivedAt": "2026-04-07",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41212",
+    "receivedAt": "2026-04-07",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41213",
+    "receivedAt": "2026-04-07",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41214",
+    "receivedAt": "2026-04-08",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41215",
+    "receivedAt": "2026-04-08",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41216",
+    "receivedAt": "2026-04-11",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41217",
+    "receivedAt": "2026-04-12",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41218",
+    "receivedAt": "2026-04-12",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41219",
+    "receivedAt": "2026-04-13",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41220",
+    "receivedAt": "2026-04-13",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41221",
+    "receivedAt": "2026-04-13",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41222",
+    "receivedAt": "2026-04-14",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41223",
+    "receivedAt": "2026-04-14",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41224",
+    "receivedAt": "2026-04-17",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41225",
+    "receivedAt": "2026-04-17",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41227",
+    "receivedAt": "2026-04-17",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41228",
+    "receivedAt": "2026-04-17",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41229",
+    "receivedAt": "2026-04-17",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41230",
+    "receivedAt": "2026-04-17",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41231",
+    "receivedAt": "2026-04-18",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41232",
+    "receivedAt": "2026-04-19",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41233",
+    "receivedAt": "2026-04-19",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41234",
+    "receivedAt": "2026-04-20",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41235",
+    "receivedAt": "2026-04-20",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41236",
+    "receivedAt": "2026-04-20",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41237",
+    "receivedAt": "2026-04-20",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41238",
+    "receivedAt": "2026-04-20",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41239",
+    "receivedAt": "2026-04-21",
+    "tenant": "kettle.books",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41240",
+    "receivedAt": "2026-04-21",
+    "tenant": "morrow.tax",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41241",
+    "receivedAt": "2026-04-21",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41242",
+    "receivedAt": "2026-04-22",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41243",
+    "receivedAt": "2026-04-22",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41244",
+    "receivedAt": "2026-04-23",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41245",
+    "receivedAt": "2026-04-23",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41246",
+    "receivedAt": "2026-04-24",
+    "tenant": "stone.and.sons",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41247",
+    "receivedAt": "2026-04-24",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41248",
+    "receivedAt": "2026-04-24",
+    "tenant": "long.table",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41249",
+    "receivedAt": "2026-04-24",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41250",
+    "receivedAt": "2026-04-24",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41251",
+    "receivedAt": "2026-04-25",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41252",
+    "receivedAt": "2026-04-26",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41253",
+    "receivedAt": "2026-04-27",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41254",
+    "receivedAt": "2026-04-28",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41255",
+    "receivedAt": "2026-04-29",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41256",
+    "receivedAt": "2026-04-29",
+    "tenant": "long.table",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41257",
+    "receivedAt": "2026-04-30",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41258",
+    "receivedAt": "2026-05-01",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41259",
+    "receivedAt": "2026-05-01",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41260",
+    "receivedAt": "2026-05-01",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41261",
+    "receivedAt": "2026-05-02",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41262",
+    "receivedAt": "2026-05-02",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41263",
+    "receivedAt": "2026-05-02",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41264",
+    "receivedAt": "2026-05-02",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41265",
+    "receivedAt": "2026-05-03",
+    "tenant": "long.table",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41266",
+    "receivedAt": "2026-05-03",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41267",
+    "receivedAt": "2026-05-03",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41268",
+    "receivedAt": "2026-05-03",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41269",
+    "receivedAt": "2026-05-04",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41270",
+    "receivedAt": "2026-05-04",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41271",
+    "receivedAt": "2026-05-04",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41272",
+    "receivedAt": "2026-05-04",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41273",
+    "receivedAt": "2026-05-07",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41274",
+    "receivedAt": "2026-05-07",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41275",
+    "receivedAt": "2026-05-07",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41276",
+    "receivedAt": "2026-05-08",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41277",
+    "receivedAt": "2026-05-08",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41278",
+    "receivedAt": "2026-05-08",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41279",
+    "receivedAt": "2026-05-08",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41280",
+    "receivedAt": "2026-05-10",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41281",
+    "receivedAt": "2026-05-11",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41282",
+    "receivedAt": "2026-05-12",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41283",
+    "receivedAt": "2026-05-12",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41284",
+    "receivedAt": "2026-05-14",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41285",
+    "receivedAt": "2026-05-14",
+    "tenant": "lantern.row",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41286",
+    "receivedAt": "2026-05-17",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41287",
+    "receivedAt": "2026-05-17",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41288",
+    "receivedAt": "2026-05-17",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41289",
+    "receivedAt": "2026-05-18",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41290",
+    "receivedAt": "2026-05-19",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41291",
+    "receivedAt": "2026-05-20",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41292",
+    "receivedAt": "2026-05-20",
+    "tenant": "harbour.dental",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41293",
+    "receivedAt": "2026-05-20",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41294",
+    "receivedAt": "2026-05-21",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41295",
+    "receivedAt": "2026-05-22",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41296",
+    "receivedAt": "2026-05-23",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41297",
+    "receivedAt": "2026-05-23",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41299",
+    "receivedAt": "2026-05-24",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41298",
+    "receivedAt": "2026-05-24",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41300",
+    "receivedAt": "2026-05-24",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41301",
+    "receivedAt": "2026-05-26",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41302",
+    "receivedAt": "2026-05-26",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41303",
+    "receivedAt": "2026-05-27",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41304",
+    "receivedAt": "2026-05-27",
+    "tenant": "lantern.row",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41305",
+    "receivedAt": "2026-05-27",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41306",
+    "receivedAt": "2026-05-27",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41308",
+    "receivedAt": "2026-05-28",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41309",
+    "receivedAt": "2026-05-28",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41310",
+    "receivedAt": "2026-05-29",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41311",
+    "receivedAt": "2026-05-30",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41312",
+    "receivedAt": "2026-05-30",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41313",
+    "receivedAt": "2026-05-31",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41314",
+    "receivedAt": "2026-05-31",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41315",
+    "receivedAt": "2026-05-31",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41316",
+    "receivedAt": "2026-06-01",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41317",
+    "receivedAt": "2026-06-01",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41318",
+    "receivedAt": "2026-06-02",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41319",
+    "receivedAt": "2026-06-03",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41320",
+    "receivedAt": "2026-06-04",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41321",
+    "receivedAt": "2026-06-04",
+    "tenant": "harbour.dental",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41322",
+    "receivedAt": "2026-06-05",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41323",
+    "receivedAt": "2026-06-05",
+    "tenant": "morrow.tax",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41324",
+    "receivedAt": "2026-06-05",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41325",
+    "receivedAt": "2026-06-05",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41327",
+    "receivedAt": "2026-06-06",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41328",
+    "receivedAt": "2026-06-06",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41329",
+    "receivedAt": "2026-06-07",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41330",
+    "receivedAt": "2026-06-07",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41331",
+    "receivedAt": "2026-06-07",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41332",
+    "receivedAt": "2026-06-07",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41333",
+    "receivedAt": "2026-06-07",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41334",
+    "receivedAt": "2026-06-08",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41335",
+    "receivedAt": "2026-06-08",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41336",
+    "receivedAt": "2026-06-08",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41337",
+    "receivedAt": "2026-06-08",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41338",
+    "receivedAt": "2026-06-09",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41339",
+    "receivedAt": "2026-06-09",
+    "tenant": "morrow.tax",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41340",
+    "receivedAt": "2026-06-10",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41341",
+    "receivedAt": "2026-06-10",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41342",
+    "receivedAt": "2026-06-11",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41343",
+    "receivedAt": "2026-06-11",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41344",
+    "receivedAt": "2026-06-12",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41345",
+    "receivedAt": "2026-06-12",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41346",
+    "receivedAt": "2026-06-13",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41347",
+    "receivedAt": "2026-06-13",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41348",
+    "receivedAt": "2026-06-14",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41349",
+    "receivedAt": "2026-06-14",
+    "tenant": "ridge.clinic",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41350",
+    "receivedAt": "2026-06-15",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41351",
+    "receivedAt": "2026-06-16",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41352",
+    "receivedAt": "2026-06-16",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41353",
+    "receivedAt": "2026-06-16",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41354",
+    "receivedAt": "2026-06-16",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41355",
+    "receivedAt": "2026-06-16",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41356",
+    "receivedAt": "2026-06-17",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41357",
+    "receivedAt": "2026-06-17",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41358",
+    "receivedAt": "2026-06-17",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41359",
+    "receivedAt": "2026-06-18",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41360",
+    "receivedAt": "2026-06-18",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41361",
+    "receivedAt": "2026-06-18",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41362",
+    "receivedAt": "2026-06-19",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41363",
+    "receivedAt": "2026-06-19",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41364",
+    "receivedAt": "2026-06-20",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41365",
+    "receivedAt": "2026-06-20",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41366",
+    "receivedAt": "2026-06-21",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41367",
+    "receivedAt": "2026-06-22",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41368",
+    "receivedAt": "2026-06-24",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41369",
+    "receivedAt": "2026-06-25",
+    "tenant": "nine.lanterns",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41370",
+    "receivedAt": "2026-06-25",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41371",
+    "receivedAt": "2026-06-25",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41372",
+    "receivedAt": "2026-06-25",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41373",
+    "receivedAt": "2026-06-26",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41374",
+    "receivedAt": "2026-06-26",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41375",
+    "receivedAt": "2026-06-27",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41376",
+    "receivedAt": "2026-06-27",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41377",
+    "receivedAt": "2026-06-28",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41378",
+    "receivedAt": "2026-06-29",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41379",
+    "receivedAt": "2026-06-30",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41380",
+    "receivedAt": "2026-06-30",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41381",
+    "receivedAt": "2026-06-30",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41382",
+    "receivedAt": "2026-06-30",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41383",
+    "receivedAt": "2026-07-01",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41384",
+    "receivedAt": "2026-07-01",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41385",
+    "receivedAt": "2026-07-01",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41386",
+    "receivedAt": "2026-07-01",
+    "tenant": "harbour.dental",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41387",
+    "receivedAt": "2026-07-02",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41388",
+    "receivedAt": "2026-07-02",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41389",
+    "receivedAt": "2026-07-03",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41390",
+    "receivedAt": "2026-07-05",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41391",
+    "receivedAt": "2026-07-05",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41392",
+    "receivedAt": "2026-07-05",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41393",
+    "receivedAt": "2026-07-06",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41394",
+    "receivedAt": "2026-07-06",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41395",
+    "receivedAt": "2026-07-07",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41397",
+    "receivedAt": "2026-07-07",
+    "tenant": "stone.and.sons",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41396",
+    "receivedAt": "2026-07-07",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41398",
+    "receivedAt": "2026-07-07",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41399",
+    "receivedAt": "2026-07-08",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41400",
+    "receivedAt": "2026-07-09",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41401",
+    "receivedAt": "2026-07-09",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41402",
+    "receivedAt": "2026-07-10",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41404",
+    "receivedAt": "2026-07-10",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41403",
+    "receivedAt": "2026-07-10",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41405",
+    "receivedAt": "2026-07-11",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41406",
+    "receivedAt": "2026-07-11",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41408",
+    "receivedAt": "2026-07-12",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41409",
+    "receivedAt": "2026-07-12",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41410",
+    "receivedAt": "2026-07-12",
+    "tenant": "morrow.tax",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41411",
+    "receivedAt": "2026-07-12",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41412",
+    "receivedAt": "2026-07-12",
+    "tenant": "nine.lanterns",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41413",
+    "receivedAt": "2026-07-13",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41414",
+    "receivedAt": "2026-07-13",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41415",
+    "receivedAt": "2026-07-14",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41416",
+    "receivedAt": "2026-07-14",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41417",
+    "receivedAt": "2026-07-14",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41418",
+    "receivedAt": "2026-07-14",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41419",
+    "receivedAt": "2026-07-15",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41420",
+    "receivedAt": "2026-07-15",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41421",
+    "receivedAt": "2026-07-15",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41422",
+    "receivedAt": "2026-07-16",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41423",
+    "receivedAt": "2026-07-16",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41424",
+    "receivedAt": "2026-07-16",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41425",
+    "receivedAt": "2026-07-16",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41427",
+    "receivedAt": "2026-07-18",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41428",
+    "receivedAt": "2026-07-19",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41429",
+    "receivedAt": "2026-07-19",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41430",
+    "receivedAt": "2026-07-19",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41431",
+    "receivedAt": "2026-07-20",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41432",
+    "receivedAt": "2026-07-20",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41433",
+    "receivedAt": "2026-07-21",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41434",
+    "receivedAt": "2026-07-21",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41435",
+    "receivedAt": "2026-07-21",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41436",
+    "receivedAt": "2026-07-21",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41437",
+    "receivedAt": "2026-07-22",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41438",
+    "receivedAt": "2026-07-22",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41439",
+    "receivedAt": "2026-07-22",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41441",
+    "receivedAt": "2026-07-23",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41440",
+    "receivedAt": "2026-07-23",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41442",
+    "receivedAt": "2026-07-24",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41443",
+    "receivedAt": "2026-07-24",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41444",
+    "receivedAt": "2026-07-25",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41445",
+    "receivedAt": "2026-07-26",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41446",
+    "receivedAt": "2026-07-27",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41447",
+    "receivedAt": "2026-07-27",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41448",
+    "receivedAt": "2026-07-28",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41449",
+    "receivedAt": "2026-07-29",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41450",
+    "receivedAt": "2026-07-29",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41451",
+    "receivedAt": "2026-07-30",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41452",
+    "receivedAt": "2026-07-30",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41453",
+    "receivedAt": "2026-07-30",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41454",
+    "receivedAt": "2026-07-31",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41455",
+    "receivedAt": "2026-07-31",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41456",
+    "receivedAt": "2026-07-31",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41457",
+    "receivedAt": "2026-07-31",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41458",
+    "receivedAt": "2026-08-01",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41459",
+    "receivedAt": "2026-08-01",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41460",
+    "receivedAt": "2026-08-01",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41461",
+    "receivedAt": "2026-08-01",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41462",
+    "receivedAt": "2026-08-01",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41463",
+    "receivedAt": "2026-08-02",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41464",
+    "receivedAt": "2026-08-02",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41465",
+    "receivedAt": "2026-08-04",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41466",
+    "receivedAt": "2026-08-04",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41469",
+    "receivedAt": "2026-08-05",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41467",
+    "receivedAt": "2026-08-05",
+    "tenant": "kettle.books",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41468",
+    "receivedAt": "2026-08-05",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41470",
+    "receivedAt": "2026-08-06",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41471",
+    "receivedAt": "2026-08-06",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41472",
+    "receivedAt": "2026-08-09",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41473",
+    "receivedAt": "2026-08-10",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41474",
+    "receivedAt": "2026-08-11",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41475",
+    "receivedAt": "2026-08-11",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41476",
+    "receivedAt": "2026-08-12",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41477",
+    "receivedAt": "2026-08-12",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41478",
+    "receivedAt": "2026-08-13",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41479",
+    "receivedAt": "2026-08-14",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41480",
+    "receivedAt": "2026-08-14",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41482",
+    "receivedAt": "2026-08-14",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41481",
+    "receivedAt": "2026-08-14",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41483",
+    "receivedAt": "2026-08-14",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41484",
+    "receivedAt": "2026-08-14",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41485",
+    "receivedAt": "2026-08-14",
+    "tenant": "alder.physio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41486",
+    "receivedAt": "2026-08-15",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41487",
+    "receivedAt": "2026-08-15",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41488",
+    "receivedAt": "2026-08-17",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41489",
+    "receivedAt": "2026-08-18",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41490",
+    "receivedAt": "2026-08-18",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41491",
+    "receivedAt": "2026-08-18",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41493",
+    "receivedAt": "2026-08-19",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41492",
+    "receivedAt": "2026-08-19",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41495",
+    "receivedAt": "2026-08-19",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41494",
+    "receivedAt": "2026-08-19",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41496",
+    "receivedAt": "2026-08-19",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41497",
+    "receivedAt": "2026-08-19",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41498",
+    "receivedAt": "2026-08-20",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41499",
+    "receivedAt": "2026-08-20",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41500",
+    "receivedAt": "2026-08-20",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41501",
+    "receivedAt": "2026-08-21",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41502",
+    "receivedAt": "2026-08-21",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41503",
+    "receivedAt": "2026-08-21",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41504",
+    "receivedAt": "2026-08-21",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41505",
+    "receivedAt": "2026-08-22",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41506",
+    "receivedAt": "2026-08-22",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41508",
+    "receivedAt": "2026-08-22",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41509",
+    "receivedAt": "2026-08-24",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41510",
+    "receivedAt": "2026-08-24",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41511",
+    "receivedAt": "2026-08-26",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41512",
+    "receivedAt": "2026-08-26",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41513",
+    "receivedAt": "2026-08-26",
+    "tenant": "kettle.books",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41514",
+    "receivedAt": "2026-08-27",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41515",
+    "receivedAt": "2026-08-27",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41516",
+    "receivedAt": "2026-08-28",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41517",
+    "receivedAt": "2026-08-29",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41518",
+    "receivedAt": "2026-08-29",
+    "tenant": "lantern.row",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41519",
+    "receivedAt": "2026-08-29",
+    "tenant": "nine.lanterns",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41520",
+    "receivedAt": "2026-08-29",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41521",
+    "receivedAt": "2026-08-30",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41522",
+    "receivedAt": "2026-08-30",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41523",
+    "receivedAt": "2026-08-31",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41524",
+    "receivedAt": "2026-08-31",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41525",
+    "receivedAt": "2026-08-31",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41527",
+    "receivedAt": "2026-08-31",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41528",
+    "receivedAt": "2026-09-01",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41529",
+    "receivedAt": "2026-09-01",
+    "tenant": "ridge.clinic",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41530",
+    "receivedAt": "2026-09-01",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41532",
+    "receivedAt": "2026-09-02",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41531",
+    "receivedAt": "2026-09-02",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41533",
+    "receivedAt": "2026-09-03",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41534",
+    "receivedAt": "2026-09-03",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41535",
+    "receivedAt": "2026-09-03",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41536",
+    "receivedAt": "2026-09-04",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41537",
+    "receivedAt": "2026-09-04",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41538",
+    "receivedAt": "2026-09-04",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41539",
+    "receivedAt": "2026-09-04",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41540",
+    "receivedAt": "2026-09-05",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41541",
+    "receivedAt": "2026-09-06",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41542",
+    "receivedAt": "2026-09-06",
+    "tenant": "ridge.clinic",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41543",
+    "receivedAt": "2026-09-06",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41544",
+    "receivedAt": "2026-09-06",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41545",
+    "receivedAt": "2026-09-07",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41546",
+    "receivedAt": "2026-09-07",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41547",
+    "receivedAt": "2026-09-07",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41548",
+    "receivedAt": "2026-09-08",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41549",
+    "receivedAt": "2026-09-08",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41550",
+    "receivedAt": "2026-09-08",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41551",
+    "receivedAt": "2026-09-08",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41552",
+    "receivedAt": "2026-09-09",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41553",
+    "receivedAt": "2026-09-09",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41554",
+    "receivedAt": "2026-09-09",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41555",
+    "receivedAt": "2026-09-10",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41556",
+    "receivedAt": "2026-09-10",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41557",
+    "receivedAt": "2026-09-11",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41558",
+    "receivedAt": "2026-09-11",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41559",
+    "receivedAt": "2026-09-11",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41560",
+    "receivedAt": "2026-09-12",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41561",
+    "receivedAt": "2026-09-12",
+    "tenant": "alder.physio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41562",
+    "receivedAt": "2026-09-13",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41563",
+    "receivedAt": "2026-09-13",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41564",
+    "receivedAt": "2026-09-13",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41565",
+    "receivedAt": "2026-09-14",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41566",
+    "receivedAt": "2026-09-14",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41567",
+    "receivedAt": "2026-09-15",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41568",
+    "receivedAt": "2026-09-15",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41569",
+    "receivedAt": "2026-09-16",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41570",
+    "receivedAt": "2026-09-17",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41571",
+    "receivedAt": "2026-09-17",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41572",
+    "receivedAt": "2026-09-17",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41573",
+    "receivedAt": "2026-09-17",
+    "tenant": "morrow.tax",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41574",
+    "receivedAt": "2026-09-18",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41575",
+    "receivedAt": "2026-09-18",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41576",
+    "receivedAt": "2026-09-19",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41577",
+    "receivedAt": "2026-09-20",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41579",
+    "receivedAt": "2026-09-20",
+    "tenant": "pale.harbour",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41578",
+    "receivedAt": "2026-09-20",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41580",
+    "receivedAt": "2026-09-21",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41581",
+    "receivedAt": "2026-09-22",
+    "tenant": "ridge.clinic",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41582",
+    "receivedAt": "2026-09-22",
+    "tenant": "pale.harbour",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41583",
+    "receivedAt": "2026-09-22",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41584",
+    "receivedAt": "2026-09-22",
+    "tenant": "copper.studio",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41585",
+    "receivedAt": "2026-09-22",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41586",
+    "receivedAt": "2026-09-23",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41587",
+    "receivedAt": "2026-09-23",
+    "tenant": "harbour.dental",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41588",
+    "receivedAt": "2026-09-23",
+    "tenant": "copper.studio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41589",
+    "receivedAt": "2026-09-24",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41590",
+    "receivedAt": "2026-09-24",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41591",
+    "receivedAt": "2026-09-24",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41592",
+    "receivedAt": "2026-09-24",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41593",
+    "receivedAt": "2026-09-25",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41594",
+    "receivedAt": "2026-09-25",
+    "tenant": "long.table",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41595",
+    "receivedAt": "2026-09-25",
+    "tenant": "copper.studio",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41596",
+    "receivedAt": "2026-09-26",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41597",
+    "receivedAt": "2026-09-26",
+    "tenant": "pale.harbour",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "hint"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41598",
+    "receivedAt": "2026-09-26",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41599",
+    "receivedAt": "2026-09-26",
+    "tenant": "long.table",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41601",
+    "receivedAt": "2026-09-27",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41600",
+    "receivedAt": "2026-09-27",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41602",
+    "receivedAt": "2026-09-27",
+    "tenant": "nine.lanterns",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41603",
+    "receivedAt": "2026-09-27",
+    "tenant": "harbour.dental",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41604",
+    "receivedAt": "2026-09-27",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41605",
+    "receivedAt": "2026-09-28",
+    "tenant": "morrow.tax",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41606",
+    "receivedAt": "2026-09-29",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41608",
+    "receivedAt": "2026-09-30",
+    "tenant": "nine.lanterns",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41609",
+    "receivedAt": "2026-10-01",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41610",
+    "receivedAt": "2026-10-01",
+    "tenant": "kettle.books",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41611",
+    "receivedAt": "2026-10-01",
+    "tenant": "kettle.books",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41612",
+    "receivedAt": "2026-10-01",
+    "tenant": "stone.and.sons",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41613",
+    "receivedAt": "2026-10-01",
+    "tenant": "alder.physio",
+    "channel": "app",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41614",
+    "receivedAt": "2026-10-02",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41615",
+    "receivedAt": "2026-10-02",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41616",
+    "receivedAt": "2026-10-02",
+    "tenant": "stone.and.sons",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41617",
+    "receivedAt": "2026-10-03",
+    "tenant": "stone.and.sons",
+    "channel": "form",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41618",
+    "receivedAt": "2026-10-03",
+    "tenant": "ridge.clinic",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41619",
+    "receivedAt": "2026-10-04",
+    "tenant": "harbour.dental",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  },
+  {
+    "id": "R-41620",
+    "receivedAt": "2026-10-04",
+    "tenant": "lantern.row",
+    "channel": "email",
+    "meta": {
+      "intakeTag": "parser"
+    },
+    "mergedInto": 4471
+  }
+]

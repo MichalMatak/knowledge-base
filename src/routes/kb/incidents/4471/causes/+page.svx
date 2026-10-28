@@ -1,0 +1,37 @@
+---
+layout: runbook
+title: '#4471 · two date causes'
+owner: support desk
+status: follow-up
+reviewed: 2026-10-28
+signature: MichalMatak
+---
+
+<script>
+  import CauseTable from '#lib/kb/CauseTable.svelte';
+  import RenderStamp from '#lib/kb/RenderStamp.svelte';
+</script>
+
+Ticket #4471 contains reports merged by intake. This view deduplicates repeated export rows by report ID. The intake tag is a guess; the cause follows each tenant's locale and booking form.
+
+## Causes in the export
+
+<CauseTable ticket={4471} />
+
+## Shared parser: day and month flipped
+
+The shared parser reads dates month-first even when a tenant's locale writes day-first. This cause covers app, email, and booking-v2 form reports across the day-first tenants.
+
+**GitHub follow-up:** [Issue #1](https://github.com/MichalMatak/knowledge-base/issues/1).
+
+## Booking-v3 hint conflicts with a day-first locale
+
+The booking-v3 form shows an `MM/DD/YYYY` hint for day-first tenants. Customers following that hint enter a month-first date, while the form parses it according to the tenant's day-first locale. This cause covers Alder Physio (`de-DE`), Copper Studio (`es-ES`), and Pale Harbour (`pt-PT`).
+
+**GitHub follow-up:** [Issue #2](https://github.com/MichalMatak/knowledge-base/issues/2).
+
+## One-day moves
+
+The desk notes flag `R-41202`, `R-41209`, `R-41236`, `R-41344`, and `R-41620` as one-day moves. The tenant/form rule still places them in the shared-parser group; the notes do not establish a third cause.
+
+<RenderStamp {signature} />

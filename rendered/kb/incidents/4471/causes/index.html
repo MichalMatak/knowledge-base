@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>#4471 · two date causes · support kb</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1d1b;--muted:#6b6a66;--line:#e3e0d8;--accent:#2f6f5e;--warn:#b4501f;--warn-bg:#fbeee6;--mono:ui-monospace,'Cascadia Code',Menlo,monospace}
+@media(prefers-color-scheme:dark){:root{--bg:#171716;--fg:#ecebe6;--muted:#9c9a93;--line:#34332f;--accent:#6fbfa6;--warn:#f0905d;--warn-bg:#3a2418}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif}.kb{max-width:920px;margin:0 auto;padding:2rem 16px 4rem}.crumb{font:.8rem var(--mono);text-decoration:none;color:var(--muted)}h1{margin:.25rem 0 .5rem;line-height:1.2}.meta{display:flex;flex-wrap:wrap;gap:.5rem 1rem;color:var(--muted);font-size:.85rem;margin:0}.status{border:1px solid var(--line);border-radius:99px;padding:0 .6rem}.stale{color:var(--warn);font-weight:600}.banner{background:var(--warn-bg);color:var(--warn);padding:.6rem 1rem;border-radius:6px}h2{margin-top:2rem}table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}th,td{border-bottom:1px solid var(--line);padding:.45rem .5rem;text-align:left;vertical-align:top}code{font-family:var(--mono);font-size:.88em}.tags{color:var(--muted);font-size:.85em}.note{color:var(--muted);font-size:.85em}.wrong td{background:var(--warn-bg)}.wrong td:last-child{color:var(--warn);font-weight:600}a{color:var(--accent)}.sum{font-size:1.1rem}.stamp{margin:2rem 0 0;font:.85rem var(--mono);color:var(--muted)}.stamp b{color:var(--accent);letter-spacing:.04em}footer{margin-top:3rem;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line);padding-top:1rem}
+@media(max-width:720px){.table-wrap{overflow-x:auto}table{min-width:700px}}
+</style>
+</head>
+<body><div class="kb">
+<header><a class="crumb" href="/kb">support desk · kb</a><h1>#4471 · two date causes</h1>
+<p class="meta"><span>owner <b>support desk</b></span><span class="status">follow-up</span><span>reviewed 2026-10-28 · 0 days ago</span></p></header>
+
+<main>
+<p>Ticket #4471 contains reports merged by intake. This view deduplicates repeated export rows by report ID. The intake tag is a guess; the cause follows each tenant's locale and booking form.</p>
+<h2>Causes in the export</h2>
+<p class="sum"><strong>412</strong> reports merged into #4471 · <strong>2</strong> causes</p>
+<div class="table-wrap"><table><thead><tr><th>cause</th><th>reports</th><th>tagged as</th><th>tenants</th><th>seen</th><th></th></tr></thead><tbody><tr><td><code>parser</code></td><td>379</td><td class="tags">parser ×356 · hint ×23</td><td>11</td><td>2026-04-01 → 2026-10-04</td><td>#4471</td></tr>
+<tr class="wrong"><td><code>hint</code></td><td>33</td><td class="tags">hint ×18 · parser ×15</td><td>3</td><td>2026-04-17 → 2026-09-22</td><td>not this ticket — no ticket of its own</td></tr></tbody></table></div>
+<p class="note">5 reports read as a one-day move; filed under <code>parser</code> by tenant.</p>
+<h2>Shared parser: day and month flipped</h2>
+<p>The shared parser reads dates month-first even when a tenant's locale writes day-first. This cause covers app, email, and booking-v2 form reports across the day-first tenants.</p>
+<p><strong>GitHub follow-up:</strong> <a href="https://github.com/MichalMatak/knowledge-base/issues/1">Issue #1</a>.</p>
+<h2>Booking-v3 hint conflicts with a day-first locale</h2>
+<p>The booking-v3 form shows an <code>MM/DD/YYYY</code> hint for day-first tenants. Customers following that hint enter a month-first date, while the form parses it according to the tenant's day-first locale. This cause covers Alder Physio (<code>de-DE</code>), Copper Studio (<code>es-ES</code>), and Pale Harbour (<code>pt-PT</code>).</p>
+<p><strong>GitHub follow-up:</strong> <a href="https://github.com/MichalMatak/knowledge-base/issues/2">Issue #2</a>.</p>
+<h2>One-day moves</h2>
+<p>The desk notes flag <code>R-41202</code>, <code>R-41209</code>, <code>R-41236</code>, <code>R-41344</code>, and <code>R-41620</code> as one-day moves. The tenant/form rule still places them in the shared-parser group; the notes do not establish a third cause.</p>
+<p class="stamp">desk ref <b>DR-5B73-N7FS</b></p>
+</main><footer>Pages are written by people. Tables and charts are built from data at render time.</footer>
+</div></body></html>
